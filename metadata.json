@@ -1,0 +1,6 @@
+{
+  "name": "WATCH EARN — WATCH. DISCOVER. EARN.",
+  "description": "International video discovery and rewards platform with multilingual support, verified referral program, transparent accounting ledger, and Adsterra Direct Link integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
